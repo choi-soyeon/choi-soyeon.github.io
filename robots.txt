@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://choi-soyeon.github.io/sitemap.xml
