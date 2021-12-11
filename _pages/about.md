@@ -10,7 +10,7 @@ redirect_from:
 
 I am a fourth year graduate student in the Social Psychology area. Born and raised in South Korea, I received her B.A. in Psychology and English Language & Literature and also her M.A. in Social Psychology from Yonsei University. 
 
-You can download my CV here (https://choi-soyeon.github.io/files/choi_cv.pdf).
+You can download my CV [here](https://choi-soyeon.github.io/files/choi_cv.pdf).
 
 
 
