@@ -7,21 +7,18 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-I am a fourth year graduate student in the Social Psychology area. Born and raised in South Korea, I received her B.A. in Psychology and English Language & Literature and also her M.A. in Social Psychology from Yonsei University. 
+I am currently PhD student in the Psychology department at the University of Michigan.
 
 You can download my CV [here](https://choi-soyeon.github.io/files/choi_cv.pdf).
 
 
-
 Research Interests
 ------
-I am mainly interested in how ecological threats shape people's time perspective and behavior, and how the environment creates individual differences in the way people define their sense of well-being. I spend my free time taking yoga lessons, traveling, and collecting funny cat memes.
+My research focuses on explaining human behavior and decision-making in various environmental and ecological contexts.
 
 
 Publications
 ------
-
 **Choi, S.**, Merrell, W. N., & Ackerman, J. M. (in press). Keep your distance: Different roles for knowledge and affect in predicting social distancing behavior. _Journal of Health Psychology_.
 
 Ackerman, J. M., Merrell, W. N., **Choi, S.** (2020). What people believe about detecting infectious disease using the senses. _Current Research in Ecological and Social Psychology, 1_, 100002.
