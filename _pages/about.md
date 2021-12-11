@@ -21,4 +21,13 @@ I am mainly interested in how ecological threats shape people's time perspective
 
 Publications
 ------
-Blah
+
+Choi, S., Merrell, W. N., & Ackerman, J. M. (in press). Keep your distance: Different roles for knowledge and affect in predicting social distancing behavior. Journal of Health Psychology.
+
+Ackerman, J. M., Merrell, W. N., Choi, S. (2020). What people believe about detecting infectious disease using the senses. Current Research in Ecological and Social Psychology, 1, 100002.
+
+Lee, D. I., Gardiner, G., Baranski, E., International Situations Project Members, & Funder, D. C. (2020). Situational experience around the world: A replication and extension in 62 countries. Journal of Personality, 88, 1091-1110.
+
+Choi, S., & Suh, E. M. (2018). Retrospective time travel in life satisfaction judgment: A life history approach. Personality and Individual Differences, 129, 138-142.
+
+Suh, E. M., & Choi, S. (2018). Predictors of subjective well-being across cultures. In E. Diener, S. Oishi, & L. Tay (Eds.), Handbook of Subjective Well-being. Noba Scholar.
