@@ -14,7 +14,7 @@ You can download my CV [here](https://choi-soyeon.github.io/files/choi_cv.pdf).
 
 Research Interests
 ------
-My research focuses on explaining human behavior and decision-making in various environmental and ecological contexts.
+My research focuses on explaining human behavior and decision-making in various environmental and ecological contexts. I use both quantitative and qualitiative methods in addressing the questions.
 
 
 Publications
