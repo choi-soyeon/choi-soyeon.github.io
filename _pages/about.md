@@ -19,9 +19,9 @@ My research focuses on explaining human behavior and decision-making in various 
 
 Publications
 ------
-**Choi, S.**, Merrell, W. N., & Ackerman, J. M. (under review). Safety first, but for whom? Shifts in risk perception for self and others following COVID-19 vaccination. [available upon request](soyeonc@umich.edu)
+**Choi, S.**, Merrell, W. N., & Ackerman, J. M. (under review). Safety first, but for whom? Shifts in risk perception for self and others following COVID-19 vaccination. [available upon request]("soyeonc@umich.edu")
 
-**Choi, S.**, Merrell, W. N., & Ackerman, J. M. (in press). Keep your distance: Different roles for knowledge and affect in predicting social distancing behavior. _Journal of Health Psychology_. [available upon request](soyeonc@umich.edu)
+**Choi, S.**, Merrell, W. N., & Ackerman, J. M. (in press). Keep your distance: Different roles for knowledge and affect in predicting social distancing behavior. _Journal of Health Psychology_. [available upon request]("soyeonc@umich.edu")
 
 Ackerman, J. M., Merrell, W. N., **Choi, S.** (2020). What people believe about detecting infectious disease using the senses. _Current Research in Ecological and Social Psychology, 1_, 100002. [link](https://www.sciencedirect.com/science/article/pii/S2666622720300022)
 
