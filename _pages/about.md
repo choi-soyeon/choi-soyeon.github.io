@@ -19,7 +19,7 @@ My research focuses on the processes through which people perceive others and ma
 
 Projects & Publications
 ------
-**Choi, S.**, & Ackerman, J. M. (in prep). Back to the past: How much of the past do people value in making decisions? [link](https://choi-soyeon.github.io/files/Choi & Ackerman (in prep_poster).pdf
+**Choi, S.**, & Ackerman, J. M. (in prep). Back to the past: How much of the past do people value in making decisions? [link](https://choi-soyeon.github.io/files/Choi & Ackerman (in prep_poster).pdf)
 
 **Choi, S.**, Merrell, W. N., & Ackerman, J. M. (under review). Safety first, but for whom? Shifts in risk perception for self and others following COVID-19 vaccination. [available upon request](mailto:soyeonc@umich.edu)
 
