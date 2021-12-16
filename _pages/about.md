@@ -17,8 +17,10 @@ Research Interests
 My research focuses on the processes through which people perceive others and make decisions across different social and environmental contexts. I use both quantitative and qualitiative methods in addressing the questions.
 
 
-Publications
+Projects & Publications
 ------
+**Choi, S.**, & Ackerman, J. M. (in prep). Back to the past: How much of the past do people value in making decisions? [link](https://choi-soyeon.github.io/files/Choi & Ackerman (in prep_poster).pdf
+
 **Choi, S.**, Merrell, W. N., & Ackerman, J. M. (under review). Safety first, but for whom? Shifts in risk perception for self and others following COVID-19 vaccination. [available upon request](mailto:soyeonc@umich.edu)
 
 **Choi, S.**, Merrell, W. N., & Ackerman, J. M. (in press). Keep your distance: Different roles for knowledge and affect in predicting social distancing behavior. _Journal of Health Psychology_. [link](https://choi-soyeon.github.io/files/Choi, Merrell, Ackerman, 2021 (jhp).pdf)
