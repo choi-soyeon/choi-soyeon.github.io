@@ -29,7 +29,7 @@ Projects & Publications
 
 Ackerman, J. M., Merrell, W. N., **Choi, S.** (2020). What people believe about detecting infectious disease using the senses. _Current Research in Ecological and Social Psychology, 1_, 100002. [link](https://choi-soyeon.github.io/files/Ackerman, Merrell, & Choi, 2020.pdf)
 
-Lee, D. I., Gardiner, G., Baranski, E., International Situations Project Members, & Funder, D. C. (2020). Situational experience around the world: A replication and extension in 62 countries. _Journal of Personality, 88_, 1091-1110. [link](https://choi-soyeon.github.io/files/Lee et al., 2020.pdf)
+Lee, D. I., Gardiner, G., Baranski, E., **International Situations Project Members**, & Funder, D. C. (2020). Situational experience around the world: A replication and extension in 62 countries. _Journal of Personality, 88_, 1091-1110. [link](https://choi-soyeon.github.io/files/Lee et al., 2020.pdf)
 
 **Choi, S.**, & Suh, E. M. (2018). Retrospective time travel in life satisfaction judgment: A life history approach. _Personality and Individual Differences, 129_, 138-142. [link](https://choi-soyeon.github.io/files/Choi & Suh, 2018.pdf)
 
