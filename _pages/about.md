@@ -21,7 +21,7 @@ Projects & Publications
 ------
 **Choi, S.**, & Ackerman, J. M. (in prep). Back to the past: How much of the past do people value in making decisions? [link](https://choi-soyeon.github.io/files/Choi & Ackerman (in prep_poster).pdf)
 
-**Choi, S.**, & Suh, E. M. (in prep). Are you happy with your friends? The impact of behavioral immune system on social networking strategy and subjective well-being [link](https://choi-soyeon.github.io/files/Choi & Suh (in prep).pdf)
+**Choi, S.**, & Suh, E. M. (in prep). Are you happy with your friends? The impact of behavioral immune system on social networking strategy and subjective well-being. [link](https://choi-soyeon.github.io/files/Choi & Suh (in prep).pdf)
 
 **Choi, S.**, Merrell, W. N., & Ackerman, J. M. (under review). Safety first, but for whom? Shifts in risk perception for self and others following COVID-19 vaccination. [available upon request](mailto:soyeonc@umich.edu)
 
