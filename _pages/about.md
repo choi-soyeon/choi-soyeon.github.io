@@ -14,7 +14,7 @@ You can download my CV [here](https://choi-soyeon.github.io/files/choi_cv.pdf).
 
 Research Interests
 ------
-My research focuses on the processes through which people perceive others and make decisions across different social and environmental contexts. I use both quantitative and qualitiative methods in addressing the questions.
+My research focuses on the processes through which people perceive others and make decisions across different social and environmental contexts. I use both quantitative and qualitative methods in addressing the questions.
 
 
 Projects & Publications
