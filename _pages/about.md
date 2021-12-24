@@ -34,5 +34,6 @@ Lee, D. I., Gardiner, G., Baranski, E., **International Situations Project Membe
 **Choi, S.**, & Suh, E. M. (2018). Retrospective time travel in life satisfaction judgment: A life history approach. _Personality and Individual Differences, 129_, 138-142. [link](https://choi-soyeon.github.io/files/Choi & Suh, 2018.pdf)
 
 Suh, E. M., & **Choi, S.** (2018). Predictors of subjective well-being across cultures. In E. Diener, S. Oishi, & L. Tay (Eds.), _Handbook of Subjective Well-being_. Noba Scholar. [link](https://choi-soyeon.github.io/files/Suh & Choi, 2018.pdf)
-
-
+   
+   
+   
