@@ -24,8 +24,8 @@
   }
 
   .page__inner-wrap {
+    margin-bottom: 1em;
     @include full();
-    margin-bottom: 2em;
     .page__content,
     .page__meta,
     .page__share {
