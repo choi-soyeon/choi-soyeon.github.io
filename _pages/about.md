@@ -25,7 +25,7 @@ Projects & Publications
 
 **Choi, S.**, Merrell, W. N., & Ackerman, J. M. (under review). Safety first, but for whom? Shifts in risk perception for self and others following COVID-19 vaccination. [available upon request](mailto:soyeonc@umich.edu)
 
-**Choi, S.**, Merrell, W. N., & Ackerman, J. M. (in press). Keep your distance: Different roles for knowledge and affect in predicting social distancing behavior. _Journal of Health Psychology_. [link](https://choi-soyeon.github.io/files/Choi, Merrell, Ackerman, 2021 (jhp).pdf)
+**Choi, S.**, Merrell, W. N., & Ackerman, J. M. (2022). Keep your distance: Different roles for knowledge and affect in predicting social distancing behavior. _Journal of Health Psychology_. [link](https://choi-soyeon.github.io/files/13591053211067100.pdf)
 
 Ackerman, J. M., Merrell, W. N., **Choi, S.** (2020). What people believe about detecting infectious disease using the senses. _Current Research in Ecological and Social Psychology, 1_, 100002. [link](https://choi-soyeon.github.io/files/Ackerman, Merrell, & Choi, 2020.pdf)
 
