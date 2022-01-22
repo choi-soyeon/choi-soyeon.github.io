@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 I am currently a PhD student in the Psychology Department at the University of Michigan.
-
-You can download my CV [here](https://choi-soyeon.github.io/files/choi_cv.pdf) or my resume [here](https://choi-soyeon.github.io/files/choi_resume.pdf).
+You can download my my resume [here](https://choi-soyeon.github.io/files/choi_resume.pdf) or my academic CV [here](https://choi-soyeon.github.io/files/choi_cv.pdf).
 
 
 Research Interests
