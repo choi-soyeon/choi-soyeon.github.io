@@ -9,7 +9,14 @@ redirect_from:
 ---
 I am currently a PhD student in the Psychology Department at the University of Michigan.
 
-You can download my academic CV [here](https://choi-soyeon.github.io/files/choi_cv.pdf).
+You can download my resume [here](https://choi-soyeon.github.io/files/choi_resume.pdf) and my academic CV [here](https://choi-soyeon.github.io/files/choi_cv.pdf).
+
+
+Key Competencies
+------
+Quantitative methods: experiment, survey design & sampling
+Qualitative methods: interview, & systematic observation
+Data analysis, visualization & inferential statistics
 
 
 Research Interests
