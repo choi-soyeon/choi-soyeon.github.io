@@ -25,11 +25,7 @@ My research focuses on the processes through which people perceive others and ma
 
 Selected Presentations & Publications
 ------
-**Choi, S.**, & Ackerman, J. M. (in prep). Back to the past: How much of the past do people value in making decisions? Poster presented at the annual meeting of the Society for Personality and Social Psychology. [link](https://choi-soyeon.github.io/files/inprep_Choi,Ackerman.pdf)
-
-**Choi, S.**, & Suh, E. M. (in prep). Are you happy with your friends? The impact of behavioral immune system on social networking strategy and subjective well-being. Poster presented at the annual meeting of the Society for Personality and Social Psychology. [link](https://choi-soyeon.github.io/files/inprep_Choi,Suh.pdf)
-
-**Choi, S.**, Merrell, W. N., & Ackerman, J. M. (under review). Safety first, but for whom? Shifts in risk perception for self and others following COVID-19 vaccination. [available upon request](mailto:soyeonc@umich.edu)
+**Choi, S.**, Merrell, W. N., & Ackerman, J. M. (2023). Safety first, but for whom? Shifts in risk perception for self and others following COVID-19 vaccination. [link](https://compass.onlinelibrary.wiley.com/doi/full/10.1111/spc3.12757)
 
 **Choi, S.**, Merrell, W. N., & Ackerman, J. M. (2022). Keep your distance: Different roles for knowledge and affect in predicting social distancing behavior. _Journal of Health Psychology_. [link](https://choi-soyeon.github.io/files/2021_Choi,Merrell,Ackerman_jhp.pdf)
 
@@ -40,5 +36,9 @@ Lee, D. I., Gardiner, G., Baranski, E., **International Situations Project Membe
 **Choi, S.**, & Suh, E. M. (2018). Retrospective time travel in life satisfaction judgment: A life history approach. _Personality and Individual Differences, 129_, 138-142. [link](https://choi-soyeon.github.io/files/2018_Choi,Suh.pdf)
 
 Suh, E. M., & **Choi, S.** (2018). Predictors of subjective well-being across cultures. In E. Diener, S. Oishi, & L. Tay (Eds.), _Handbook of Subjective Well-being_. Noba Scholar. [link](https://choi-soyeon.github.io/files/2018_Suh,Choi.pdf)
+
+**Choi, S.**, & Ackerman, J. M. (in prep). Back to the past: How much of the past do people value in making decisions? Poster presented at the annual meeting of the Society for Personality and Social Psychology. [link](https://choi-soyeon.github.io/files/inprep_Choi,Ackerman.pdf)
+
+**Choi, S.**, & Suh, E. M. (in prep). Are you happy with your friends? The impact of behavioral immune system on social networking strategy and subjective well-being. Poster presented at the annual meeting of the Society for Personality and Social Psychology. [link](https://choi-soyeon.github.io/files/inprep_Choi,Suh.pdf)
    
    
