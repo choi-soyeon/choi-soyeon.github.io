@@ -23,7 +23,7 @@ Research Interests
 My research focuses on examining individuals' perception of others and their decision-making processes within different ecological contexts. To provide a comprehensive understanding of these phenomena, I employ a mixed-methods approach, incorporating both quantitative and qualitative methodologies. 
 
 
-Selected Presentations & Publications
+Selected Publications & Presentations
 ------
 **Choi, S.**, Merrell, W. N., & Ackerman, J. M. (2023). Safety first, but for whom? Shifts in risk perception for self and others following COVID-19 vaccination. _Social and Personality Psychology Compass_, e12757. [link](https://compass.onlinelibrary.wiley.com/doi/full/10.1111/spc3.12757)
 
