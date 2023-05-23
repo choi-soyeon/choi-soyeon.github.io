@@ -20,7 +20,7 @@ Primary and secondary data analysis, visualization & inferential statistics<br/>
 
 Research Interests
 ------
-My research focuses on the processes through which people perceive others and make decisions across different social and environmental contexts. I use both quantitative and qualitative methods in addressing the questions.
+My research focuses on examining individuals' perception of others and their decision-making processes within different ecological contexts. To provide a comprehensive understanding of these phenomena, I employ a mixed-methods approach, incorporating both quantitative and qualitative methodologies. 
 
 
 Selected Presentations & Publications
