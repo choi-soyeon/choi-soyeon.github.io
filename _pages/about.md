@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 I am currently a PhD student in the Psychology Department at the University of Michigan.<br/>
-You can download my resume [here](https://choi-soyeon.github.io/files/choi_resume.pdf) or academic CV [here](https://choi-soyeon.github.io/files/choi_cv.pdf).
+You can download my CV [here](https://choi-soyeon.github.io/files/Soyeon Choi_cv.pdf).
 
 
-Key Skills
+Key Competencies
 ------
 Quantitative methods, including experiment, survey design & sampling<br/>
 Qualitative methods, including interview & systematic observation<br/>
@@ -20,7 +20,7 @@ Primary and secondary data analysis, visualization & inferential statistics<br/>
 
 Research Interests
 ------
-My research focuses on examining individuals' perception of others and their decision-making processes within different ecological contexts. To provide a comprehensive understanding of these phenomena, I employ a mixed-methods approach, incorporating both quantitative and qualitative methodologies. 
+My research focuses on the processes through which environmental features (e.g., infectious disease, resource scarcity, unpredictability) influence human motivation and behavior.
 
 
 Selected Publications & Presentations
