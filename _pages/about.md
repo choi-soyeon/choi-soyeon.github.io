@@ -8,7 +8,12 @@ redirect_from:
   - /about.html
 ---
 I am currently a PhD student in the Psychology Department at the University of Michigan.<br/>
-You can download my CV [here](https://choi-soyeon.github.io/files/choi_cv.pdf).
+You can see my CV [here](https://choi-soyeon.github.io/files/choi_cv.pdf).
+
+
+Research Interests
+------
+My research focuses on the processes through which environmental features (e.g., infectious disease, resource scarcity, unpredictability) influence human motivation and behavior.
 
 
 Key Competencies
@@ -16,11 +21,6 @@ Key Competencies
 Quantitative methods, including experiment, survey design & sampling<br/>
 Qualitative methods, including interview & systematic observation<br/>
 Primary and secondary data analysis, visualization & inferential statistics<br/>
-
-
-Research Interests
-------
-My research focuses on the processes through which environmental features (e.g., infectious disease, resource scarcity, unpredictability) influence human motivation and behavior.
 
 
 Selected Publications & Presentations
@@ -40,5 +40,8 @@ Suh, E. M., & **Choi, S.** (2018). Predictors of subjective well-being across cu
 **Choi, S.**, & Ackerman, J. M. (in prep). Back to the past: How much of the past do people value in making decisions? Poster presented at the annual meeting of the Society for Personality and Social Psychology. [link](https://choi-soyeon.github.io/files/inprep_Choi,Ackerman.pdf)
 
 **Choi, S.**, & Suh, E. M. (in prep). Are you happy with your friends? The impact of behavioral immune system on social networking strategy and subjective well-being. Poster presented at the annual meeting of the Society for Personality and Social Psychology. [link](https://choi-soyeon.github.io/files/inprep_Choi,Suh.pdf)
+   
+   
+   
    
    
