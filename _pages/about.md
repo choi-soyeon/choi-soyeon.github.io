@@ -11,9 +11,9 @@ I am currently a PhD student in the Psychology Department at the University of M
 You can see my CV [here](https://choi-soyeon.github.io/files/choi_cv.pdf).
 
 
-Research Interests
+Research
 ------
-My research focuses on the processes through which environmental features (e.g., infectious disease, resource scarcity, unpredictability) influence human motivation and behavior.
+My research focuses on the processes through which environmental features (e.g., infectious disease, resource availability, unpredictability) influence human motivation and behavior.
 
 
 Key Competencies
