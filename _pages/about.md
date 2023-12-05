@@ -25,6 +25,8 @@ Primary and secondary data analysis, visualization & inferential statistics<br/>
 
 Selected Publications & Presentations
 ------
+Merrell, W. M., **Choi, S.**, & Ackerman, J. M. (in press). When and why people conceal infectious disease. _Psychological Science_.
+
 **Choi, S.**, Merrell, W. N., & Ackerman, J. M. (2023). Safety first, but for whom? Shifts in risk perception for self and others following COVID-19 vaccination. _Social and Personality Psychology Compass_, e12757. [link](https://compass.onlinelibrary.wiley.com/doi/full/10.1111/spc3.12757)
 
 **Choi, S.**, Merrell, W. N., & Ackerman, J. M. (2022). Keep your distance: Different roles for knowledge and affect in predicting social distancing behavior. _Journal of Health Psychology, 27_, 2847-2859. [link](https://choi-soyeon.github.io/files/2021_Choi,Merrell,Ackerman_jhp.pdf)
