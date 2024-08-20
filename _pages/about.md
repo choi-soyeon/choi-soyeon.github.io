@@ -15,13 +15,6 @@ Research
 My research focuses on the processes through which ecological features (e.g., pathogen prevalence, resource availability, unpredictability) influence human motivation and well-being.
 
 
-Key Competencies
-------
-Quantitative methods, including experiment, survey design & sampling<br/>
-Qualitative methods, including interview & systematic observation<br/>
-Primary and secondary data analysis, visualization & inferential statistics<br/>
-
-
 Selected Publications & Presentations
 ------
 Merrell, W. M., **Choi, S.**, & Ackerman, J. M. (2024). When and why people conceal infectious disease. _Psychological Science_. [link](https://doi.org/10.1177/09567976231221990)
