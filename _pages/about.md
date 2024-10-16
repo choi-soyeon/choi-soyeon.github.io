@@ -12,7 +12,7 @@ I am a postdoctoral researcher in the Psychology Department at the University of
 
 Research
 ------
-My research focuses on the processes through which ecological features (e.g., pathogen prevalence, resource availability, unpredictability) influence human motivation and well-being.
+My research focuses on the processes through which ecological features (e.g., pathogen prevalence, resource availability, unpredictability) shape the way we see ourselves, inform our understanding of others, and guide our interactions with one another.
 
 
 Selected Publications & Presentations
